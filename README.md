@@ -26,7 +26,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 You should also be automatically directed to the base page of your web app. This should look something like:
 
 <div id="s_image" align="center">
-  <img src="https://github.com/ereshia/2401FTDS_Classification_Project/blob/main/Streamlit_image.png" width="850" height="400" alt=""/>
+  <img src="https://github.com/MoteneJan/StreamLit/blob/main/Screenshot%20(537).png" width="850" height="400" alt=""/>
 </div>
 
 Congratulations! You've now officially deployed your first web application!
